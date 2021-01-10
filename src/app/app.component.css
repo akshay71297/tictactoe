@@ -1,0 +1,14 @@
+.cell {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  display: inline-block;
+  text-align: -webkit-center;
+  text-align: -moz-center;
+  /*cursor: pointer;*/
+}
+
+.cell > span {
+  line-height: 50px;
+  display: table
+}
