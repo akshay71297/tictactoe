@@ -105,7 +105,7 @@ export class AppComponent {
           if (countD12 === 4) {
             countD12 = 0;
             this.winner = this.currentPlayer;
-            continue;
+            break;
           }
         } else {
           countD12 = 0;
@@ -134,7 +134,7 @@ export class AppComponent {
           if (countD12 === 4) {
             countD12 = 0;
             this.winner = this.currentPlayer;
-            // continue;
+            break;
           }
         } else {
           countD12 = 0;
