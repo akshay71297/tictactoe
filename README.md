@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to run:
 
-Run `ng serve` fand navigate to `http://localhost:4200/`. 
-choose a grid size, and start playing.
+Run `ng serve` and navigate to `http://localhost:4200/`. 
+Choose a grid size, and start playing.
 
 The app will automatically reload if you change any of the source files.
